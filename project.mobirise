@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Metalli-Mekka",
-    "currentPage": "Metalli-Mekka.html",
+    "currentPage": "tuuliviirit.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -867,7 +867,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Zetroriviiri 90 €",
+                "caption": "Zetoriviiri 90 €",
                 "active": false
               },
               {
