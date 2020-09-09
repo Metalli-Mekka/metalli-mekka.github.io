@@ -1762,6 +1762,52 @@ section.lazy-placeholder:after {
 .cid-qTkAaeaxX5 P {
   text-align: left;
 }
+.cid-sa5djVeVz4 {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #2e2e2e;
+}
+.cid-sa5djVeVz4 [class^="socicon-"]:before,
+.cid-sa5djVeVz4 [class*=" socicon-"]:before {
+  line-height: 44px;
+}
+.cid-sa5djVeVz4 .btn-social {
+  font-size: 20px;
+  border-radius: 50%;
+  padding: 0;
+  width: 44px;
+  height: 44px;
+  line-height: 44px;
+  text-align: center;
+  position: relative;
+  color: #232323;
+  cursor: pointer;
+  border-color: #149dcc;
+}
+.cid-sa5djVeVz4 .btn-social i {
+  top: 0;
+  line-height: 44px;
+  width: 44px;
+}
+.cid-sa5djVeVz4 .btn-social:hover {
+  color: #fff;
+  background: #149dcc;
+}
+.cid-sa5djVeVz4 .btn-social:hover i.socicon {
+  color: #ffffff !important;
+}
+.cid-sa5djVeVz4 .btn-social + .btn {
+  margin-left: .1rem;
+}
+@media (max-width: 767px) {
+  .cid-sa5djVeVz4 .btn {
+    font-size: 20px !important;
+  }
+}
+.cid-sa5djVeVz4 .btn-social,
+.cid-sa5djVeVz4 .mbr-section-title {
+  color: #ffffff;
+}
 .cid-s7qRxC1mjw {
   padding-top: 120px;
   padding-bottom: 15px;
